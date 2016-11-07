@@ -1,0 +1,9 @@
+D:\jobs黃金10年\資策會\_c#\test0924\test0924\bin\Debug\test0924.exe.config
+D:\jobs黃金10年\資策會\_c#\test0924\test0924\bin\Debug\test0924.exe
+D:\jobs黃金10年\資策會\_c#\test0924\test0924\bin\Debug\test0924.pdb
+D:\jobs黃金10年\資策會\_c#\test0924\test0924\obj\Debug\test0924.csprojResolveAssemblyReference.cache
+D:\jobs黃金10年\資策會\_c#\test0924\test0924\obj\Debug\test0924.Form1.resources
+D:\jobs黃金10年\資策會\_c#\test0924\test0924\obj\Debug\test0924.Properties.Resources.resources
+D:\jobs黃金10年\資策會\_c#\test0924\test0924\obj\Debug\test0924.csproj.GenerateResource.Cache
+D:\jobs黃金10年\資策會\_c#\test0924\test0924\obj\Debug\test0924.exe
+D:\jobs黃金10年\資策會\_c#\test0924\test0924\obj\Debug\test0924.pdb
